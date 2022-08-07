@@ -689,7 +689,7 @@ https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
 
 #EXTINF:0, tvg-logo="https://jolstatic.fr/www/captures/2362/8/94068.png" tvg-name="HBO USA | HD"  group-title="PREMIUM",HBO USA | HD
-https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+http://xtream20.me:8080/maher12345/maher123456/879
 
 #EXTINF:0, tvg-logo="https://w7.pngwing.com/pngs/24/399/png-transparent-hbo-2-television-channel-hbo-hd-hbo-television-text-logo-thumbnail.png" tvg-name="HBO 2 | HD"  group-title="PREMIUM", HBO 2 | HD
 https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
@@ -779,7 +779,7 @@ https://v-ny.mybtv.net/live/550/1280x720.m3u8
 https://v-la.mybtv.net/live/166/1280x720.m3u8
 
 #EXTINF:0, tvg-logo="https://iconape.com/wp-content/files/xq/110997/png/usa-network-logo.png" tvg-name="USA NETWORK | UHD"  group-title="PREMIUM",USA NETWORK | UHD
-https://cdn1-7p.teleuptv.net/8d8e972e-927a-422a-a9b7-537cf05f730c/index.m3u8
+http://xtream20.me:8080/maher12345/maher123456/883
 
 #EXTINF:0, tvg-logo="https://image.roku.com/developer_channels/prod/6292658257f2d4c2d7898f209026c5bdf4ba45dc22c3294da9604e476abb9b99.png" tvg-name="BRAVO CHANNEL - USA | UHD"  group-title="PREMIUM",BRAVO CHANNEL - USA | UHD
 https://cdn1-8p.teleuptv.net/f2a25a37-5ae5-4b7d-8db7-3579f0986f5e/index.m3u8
@@ -791,7 +791,7 @@ https://cdn1-8p.teleuptv.net/4a6a1ba6-e9e5-4bcf-ac1f-3f4fd6595f49/index.m3u8
 https://bcovlive-a.akamaihd.net/070ffdaa203f439cacbf0d45a1ddb356/us-east-1/6240731308001/playlist.m3u8
 
 #EXTINF:0, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052016/untitled-1_246.png?itok=1ptzDjGk" tvg-name="HALLMARK MOVIES - USA | UHD"  group-title="PREMIUM",HALLMARK MOVIES - USA | UHD
-https://crownmediaingesttest.akamaized.net/hls/live/2012246/hm/master.m3u8?hdnts=exp=1658386878~acl=/*~hmac=a8d6e7b3819e29ef5fe7b708bc64de61e8a9deaa86efaa5be07343e6e0d9f34b
+http://xtream20.me:8080/maher12345/maher123456/1198
 
 
 
