@@ -1,7 +1,14 @@
 #EXTM3U
 
-- MUSISC - 
-#EXTINF:-1 tvg-id="" tvg-name="Cheat Codes x Kris Kross Amsterdam - SEX" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtQGPSNm8HUPxAxsWfrPfoMUXJ.jpg" group-title="⭐ MUSIC ",Cheat Codes x Kris Kross Amsterdam - SEX 
-http://ia800205.us.archive.org/21/items/video-05_202403/Video%2005.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Walk On Water Ft. RØRY" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbtQGPSNm8HUPxAxsWfrPfoMUXJ.jpg" group-title="⭐ MUSIC ",Walk On Water Ft. RØRY
-http://ia600208.us.archive.org/1/items/video-02_202403/Video02.mp4
+# Series: Breaking Bad
+# Temporada 1
+#EXTINF:-1 group-title="Breaking Bad - Temporada 1", Episodio 1: Piloto
+http://example.com/streams/breakingbad_s1e1.m3u8
+#EXTINF:-1 group-title="Breaking Bad - Temporada 1", Episodio 2: El Gato en la Bolsa
+http://example.com/streams/breakingbad_s1e2.m3u8
+
+# Temporada 2
+#EXTINF:-1 group-title="Breaking Bad - Temporada 2", Episodio 1: Seven Thirty-Seven
+http://example.com/streams/breakingbad_s2e1.m3u8
+#EXTINF:-1 group-title="Breaking Bad - Temporada 2", Episodio 2: Grilled
+http://example.com/streams/breakingbad_s2e2.m3u8
