@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<series>
+<library>
   <show id="fbi_international">
     <title>FBI: International</title>
     <thumbnail>https://i.ibb.co/LhrnH20/FBI-International.jpg</thumbnail>
@@ -22,4 +22,4 @@
       </season>
     </seasons>
   </show>
-</series>
+</library>
