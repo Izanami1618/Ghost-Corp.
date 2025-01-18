@@ -2,13 +2,8 @@
 <series>
   <show id="fbi_international">
     <title>FBI: International</title>
-    <thumbnail>https://i.ibb.co/0fG993T/FBI.jpg</thumbnail>
-    <seasons>
-      <season number="1">
-        <title>Temporada 1</title>
-        <episodes>
-          <episode number="1">
-            <title>Episodio 1: Piloto</title>
+    <thumbnail>https://i.ibb.co/LhrnH20/FBI-International.jpg</thumbnail>
+     <title>Episodio 1: Piloto</title>
             <description>Primer episodio de FBI: International.</description>
             <url>https://cdnst71.tokyvideo.com/videos/643/643800/mp4/3ddc0c0322868393ac880b35f06c8f4e78f0de5125102be6c9150c9a6f3bf8e6.mp4?secure=6GaKvM3RrKsbGU7T87US5w%3D%3D%2C1737259127</url>
             <thumbnail>https://i.ibb.co/LhrnH20/FBI-International.jpg</thumbnail>
