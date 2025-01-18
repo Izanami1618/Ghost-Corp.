@@ -3,6 +3,7 @@
   <show id="fbi_international">
     <title>FBI: International</title>
     <thumbnail>https://i.ibb.co/LhrnH20/FBI-International.jpg</thumbnail>
+    <group>SERIES</group>
     <seasons>
       <season number="1">
         <title>Temporada 1</title>
