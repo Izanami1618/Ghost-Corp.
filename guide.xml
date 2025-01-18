@@ -5,16 +5,16 @@
 </channel>
 <programme start="20250117200000 +0000" stop="20250117220000 +0000" channel="MOVIES">
 <title>TWISTERS (2024)</title>
-<desc>TWISTERS (2024) en MOVIES</desc>
+<desc>Una emocionante pelÃ­cula de desastres.</desc>
 <icon src="https://i.ibb.co/9n0rmTw/Twisters.jpg"/>
 </programme>
-<channel id="SERIES_SEASON 2">
+<channel id="SERIES">
 <display-name>SERIES</display-name>
 <icon src="https://i.ibb.co/LhrnH20/FBI-International.jpg"/>
 </channel>
-<programme start="20250117200000 +0000" stop="20250117220000 +0000" channel="SERIES_SEASON 2">
+<programme start="20250117200000 +0000" stop="20250117220000 +0000" channel="SERIES">
 <title>FBI: International</title>
-<desc>FBI: International en SERIES</desc>
+<desc>Una serie de crÃ­menes internacionales.</desc>
 <icon src="https://i.ibb.co/LhrnH20/FBI-International.jpg"/>
 </programme>
 <channel id="MOVIES">
@@ -23,7 +23,7 @@
 </channel>
 <programme start="20250117200000 +0000" stop="20250117220000 +0000" channel="MOVIES">
 <title>HAIKYUU: BATALLA DEL BASURERO</title>
-<desc>HAIKYUU: BATALLA DEL BASURERO en MOVIES</desc>
+<desc>Un emocionante enfrentamiento en el mundo del voleibol.</desc>
 <icon src="https://i.ibb.co/nB6byGM/Haikyuu.jpg"/>
 </programme>
 </tv>
