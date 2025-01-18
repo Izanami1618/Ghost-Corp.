@@ -8,4 +8,6 @@ https://cdnst71.tokyvideo.com/videos/643/643800/mp4/3ddc0c0322868393ac880b35f06c
 http://example.com/streams/breakingbad_s1e2.m3u8
 #EXTINF:-1 group-title="FBI: International - Temporada 2" tvg-logo="https://i.ibb.co/LhrnH20/FBI-International.jpg", Episodio 5: El futuro se ve brillante
 https://cdnst71.tokyvideo.com/videos/643/643800/mp4/3ddc0c0322868393ac880b35f06c8f4e78f0de5125102be6c9150c9a6f3bf8e6.mp4?secure=qAOlTfULi0FHZm6xn4zn0w%3D%3D%2C1737251716
+#EXTINF:0, tvg-logo="https://www.seekpng.com/png/detail/242-2427447_usa-today-logo-usa-today-logo-gray.png" tvg-name="USA TODAY | SD"  group-title="NEWS",USA TODAY | SD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
 
