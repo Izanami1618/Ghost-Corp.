@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<serie>
-  <show>
-    <group-title>SERIES</group-title>
-    <tvg-logo>https://i.ibb.co/LhrnH20/FBI-International.jpg</tvg-logo>
+<series>
+  <show id="fbi_international">
     <title>FBI: International</title>
-    <url>https://cdnst71.tokyvideo.com/videos/643/643800/mp4/3ddc0c0322868393ac880b35f06c8f4e78f0de5125102be6c9150c9a6f3bf8e6.mp4?secure=6GaKvM3RrKsbGU7T87US5w%3D%3D%2C1737259127</url>
+    <season number="1">
+      <episode number="1">
+        <title>Episodio 1</title>
+        <description>Primer episodio de FBI: International.</description>
+        <url>https://cdnst71.tokyvideo.com/videos/643/643800/mp4/3ddc0c0322868393ac880b35f06c8f4e78f0de5125102be6c9150c9a6f3bf8e6.mp4?secure=6GaKvM3RrKsbGU7T87US5w%3D%3D%2C1737259127</url>
+        <thumbnail>https://i.ibb.co/LhrnH20/FBI-International.jpg</thumbnail>
+      </episode>
+    </season>
   </show>
-</serie>
+</series>
