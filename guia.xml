@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Series>
-    <SeriesName>FBI: International</SeriesName>
-    <Seasons>
-        <Season number="4">
-            <Episodes>
-                <Episode>
-                    <EpisodeNumber>5</EpisodeNumber>
-                    <Title>Episodio 5</Title>
+<SERIES>
+    <UNIVERSAL>
+        <FBI_International>
+            <Temporada_4>
+                <Episodio>
+                    <tvg-name>FBI: INTERNATIONAL</tvg-name>
+                    <Temporada>TEMPORADA 4</Temporada>
+                    <Nombre>EPISODIO 5</Nombre>
                     <URL>https://cdnst68.tokyvideo.com/videos/593/593928/mp4/101976596d2e4ab1c695244d86506655e4ee8f7bb9246188a869bfb8cfbc67b9.mp4?secure=x-DENajOKxGx5QHz5l5u7A%3D%3D%2C1737257801</URL>
-                </Episode>
-                <Episode>
-                    <EpisodeNumber>6</EpisodeNumber>
-                    <Title>Episodio 6</Title>
-                    <URL>https://cdnst71.tokyvideo.com/videos/643/643800/mp4/3ddc0c0322868393ac880b35f06c8f4e78f0de5125102be6c9150c9a6f3bf8e6.mp4?secure=6GaKvM3RrKsbGU7T87US5w%3D%3D%2C1737259127</URL>
-                </Episode>
-                <Episode>
-                    <EpisodeNumber>7</EpisodeNumber>
-                    <Title>Episodio 7</Title>
-                    <URL>https://cdnst68.tokyvideo.com/videos/593/593921/mp4/ce8e4505d9e8df2117f554a45f1f9bb2ce9ca21913b589510a9967b774da494c.mp4?secure=f0hXPnHhKNf05r5aFlJIqw%3D%3D%2C1737259128</URL>
-                </Episode>
-            </Episodes>
-        </Season>
-    </Seasons>
-</Series>
+                </Episodio>
+                <Episodio>
+                    <tvg-name>FBI: INTERNATIONAL</tvg-name>
+                    <Temporada>TEMPORADA 4</Temporada>
+                    <Nombre>EPISODIO 6</Nombre>
+                    <URL>https://cdnst68.tokyvideo.com/videos/593/593928/mp4/101976596d2e4ab1c695244d86506655e4ee8f7bb9246188a869bfb8cfbc67b9.mp4?secure=x-DENajOKxGx5QHz5l5u7A%3D%3D%2C1737257801</URL>
+                </Episodio>
+            </Temporada_4>
+        </FBI_International>
+    </UNIVERSAL>
+</SERIES>
